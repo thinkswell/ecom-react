@@ -1,0 +1,18 @@
+.previewCollection {
+  width: 100%;
+  height: auto;
+  padding: 1rem;
+
+  .title {
+    font-size: 3.4rem;
+    text-transform: capitalize;
+  }
+
+  .items {
+    padding: 1rem;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+}
